@@ -1,4 +1,4 @@
-# IDM-18.2-edited-
+# IDM + 18.2 edited
 this is an altered version of IDM+ for android 
 
 added large mapping file 
