@@ -19,7 +19,7 @@ GOOGLE TRANSLATE CURRENT PAGE!!
 
 Added google translate button to browser to show on all webpages visited
 
-BUG!! "Some websites may need to be first loaded as desktop view to see all available language selections the first time and should remember language selection per page with cookies enabled" (will remedy the view issue in a later release)
+BUG!! "Some websites may need to be first loaded as desktop view to see all available language selections the first time and should remember language selection per page with cookies enabled" (will remedy the view issue in a later release) "Fixed in 1.0.1"
 
 Some websites may not allow this button to work based on CORS or other blockers
 
