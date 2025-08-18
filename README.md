@@ -15,7 +15,9 @@ make sure to use the run command for the termux app
 
 value="true"; key="allow-external-apps"; file="/data/data/com.termux/files/home/.termux/termux.properties"; mkdir -p "$(dirname "$file")"; chmod 700 "$(dirname "$file")"; if ! grep -E '^'"$key"'=.*' $file &>/dev/null; then [[ -s "$file" && ! -z "$(tail -c 1 "$file")" ]] && newline=$'\n' || newline=""; echo "$newline$key=$value" >> "$file"; else sed -i'' -E 's/^'"$key"'=.*/'"$key=$value"'/' $file; fi
 
+Added google translate button to browser to show on all webpages selected
 
+Some websites may not allow this button to work based on CORS or other blockers
 
 Whats Next
 
