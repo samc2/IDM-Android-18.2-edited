@@ -5,6 +5,8 @@ added large mapping file
 
 added data hosts for opening links
 
+removed restrictions blocking downloads from facebook
+
 completed implementing termux into the app
 
 completed implementing shizuku into the app
