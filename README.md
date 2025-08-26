@@ -31,4 +31,4 @@ began implemening an internal CLI
 
 began vpn integration
 
-
+Cosmetics black, blue, fire, still need to add green, space, pink, purple
